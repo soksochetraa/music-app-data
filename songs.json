@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Young Love",
+    "artist": "Young Goat",
+    "imageUrl": "https://i.ytimg.com/vi/0zI2dh3gvqo/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AG-B4AC0AWKAgwIABABGFQgNSh_MA8=&rs=AOn4CLBHJDR-eZe9aO6VzIX1b_q9CSxcHA",
+    "songUrl": "https://raw.githubusercontent.com/soksochetraa/music-app-data/main/songs/younglove.mp3"
+  },
+  {
+    "title": "Ku Preng",
+    "artist": "Young Goat",
+    "imageUrl": "https://i.ytimg.com/vi/2LjsC7vcvE8/sddefault.jpg",
+    "songUrl": "https://raw.githubusercontent.com/soksochetraa/music-app-data/main/songs/kupreng.mp3"
+  }
+]
